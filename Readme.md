@@ -16,6 +16,4 @@ This is an open source repository and welcomes contributions in all forms.
 
 Please follow the following [guidelines](CONTRIBUTING.md) while contributing :smile:
 
-## License
 
-Repository licensed in [MIT](LICENSE)
